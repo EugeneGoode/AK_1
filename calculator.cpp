@@ -29,4 +29,4 @@ int Calculator::Mul(double a, double b)
 2
 3
 4
-*/5
+*5/
